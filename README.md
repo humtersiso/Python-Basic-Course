@@ -7,7 +7,7 @@ Trans-iot 內部教育訓練教材
 在Git-Bash或是cmd上寫下 git clone https://github.com/humtersiso/Python-Basic-Course.git
 ```
 
-#### Step2 看一下課綱
+#### Step2 課綱
 
 ```
 第一次教育訓練
@@ -16,6 +16,12 @@ Trans-iot 內部教育訓練教材
   *  安裝ANACONDA
   *  啟動Jupyter Notebook
   *  建立Python Script
+* 基本數據類型
+  * 布林值
+  * 浮點數值
+  * 整數
+  * 字符串
+
 
 
 
