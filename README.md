@@ -2,12 +2,12 @@
 Trans-iot 內部教育訓練教材
 
 
-#### 請先複製整個`repository`
+#### Step1 請先複製整個`repository`
 ```
 在Git-Bash或是cmd上寫下 git clone https://github.com/humtersiso/Python-Basic-Course.git
 ```
 
-#### 課綱
+#### Step2 課綱
 
 ```
 第一次教育訓練
