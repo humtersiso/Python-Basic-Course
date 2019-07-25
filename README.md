@@ -9,7 +9,7 @@ Trans-iot 內部教育訓練教材
 
 #### Step2 看一下課綱
 ```
-##在Git-Bash或是cmd上寫下 git clone https://github.com/humtersiso/Python-Basic-Course.git
+## 在Git-Bash或是cmd上寫下 git clone https://github.com/humtersiso/Python-Basic-Course.git
 ```
 
 
