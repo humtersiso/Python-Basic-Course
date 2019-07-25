@@ -12,10 +12,10 @@ Trans-iot 內部教育訓練教材
 ```
 第一次教育訓練
 ```
-* 1.	環境建置
-  *  a.	安裝ANACONDA
-  *  b.	啟動Jupyter Notebook
-  *  c.	建立Python Script
+* 環境建置
+  *  安裝ANACONDA
+  *  啟動Jupyter Notebook
+  *  建立Python Script
 
 
 
