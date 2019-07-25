@@ -16,6 +16,7 @@ Trans-iot 內部教育訓練教材
   *  安裝ANACONDA
   *  啟動Jupyter Notebook
   *  建立Python Script
+  
 * 基本數據類型
   * 布林值
   * 浮點數值
