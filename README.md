@@ -54,13 +54,13 @@ Trans-iot 內部教育訓練教材
   *	map & reduce
   *	filter
   
-*	異常錯誤和處理
+* 異常錯誤和處理
   * lambda
   *	列表解析
   *	map & reduce
   *	filter
 
-*	調適及測試
+* 調適及測試
   *	文件的讀與寫
   *	調適(debug)
   *	測試(test)
