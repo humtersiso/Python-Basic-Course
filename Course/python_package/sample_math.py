@@ -6,7 +6,7 @@
 
 def my_max(a):
     if not a:
-         return None
+         raise ValueError('列表裡不能有空值')
     max_value = a[0] 
     for item in a:         
         if item > max_value:

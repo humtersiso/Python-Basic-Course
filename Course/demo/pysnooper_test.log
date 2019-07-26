@@ -1,0 +1,42 @@
+Starting var:.. list1 = [12, 3, 4, 46, 99, 123, 3, 5, '9']
+15:35:51.197158 call         4 def more_than4(list1):
+15:35:51.198150 line         5     list2 = []
+New var:....... list2 = []
+15:35:51.200134 line         6     for i in list1:
+New var:....... i = 12
+15:35:51.201622 line         7         if i >10:
+15:35:51.202118 line         8             list2.append(i)
+Modified var:.. list2 = [12]
+15:35:51.203111 line         6     for i in list1:
+Modified var:.. i = 3
+15:35:51.204104 line         7         if i >10:
+15:35:51.205096 line         6     for i in list1:
+Modified var:.. i = 4
+15:35:51.208073 line         7         if i >10:
+15:35:51.209063 line         6     for i in list1:
+Modified var:.. i = 46
+15:35:51.210550 line         7         if i >10:
+15:35:51.211046 line         8             list2.append(i)
+Modified var:.. list2 = [12, 46]
+15:35:51.212560 line         6     for i in list1:
+Modified var:.. i = 99
+15:35:51.214022 line         7         if i >10:
+15:35:51.214521 line         8             list2.append(i)
+Modified var:.. list2 = [12, 46, 99]
+15:35:51.216010 line         6     for i in list1:
+Modified var:.. i = 123
+15:35:51.217494 line         7         if i >10:
+15:35:51.217993 line         8             list2.append(i)
+Modified var:.. list2 = [12, 46, 99, 123]
+15:35:51.219481 line         6     for i in list1:
+Modified var:.. i = 3
+15:35:51.220967 line         7         if i >10:
+15:35:51.221462 line         6     for i in list1:
+Modified var:.. i = 5
+15:35:51.222950 line         7         if i >10:
+15:35:51.223445 line         6     for i in list1:
+Modified var:.. i = '9'
+15:35:51.224934 line         7         if i >10:
+15:35:51.225927 exception    7         if i >10:
+TypeError: '>' not supported between instances of 'str' and 'int'
+Call ended by exception
